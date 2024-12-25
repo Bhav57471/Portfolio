@@ -7,13 +7,13 @@ const App = () => (
   <div className="app">
     {/* Header Section */}
     <header className="header">
-      <h1>Alluri Bhavana</h1>
-      <p>Eager, enthusiastic, and motivated Computer Science & Engineering student.</p>
+      <h1>M D Ghouse Mohinuddin</h1>
+      <p>Dedicated Computer Science & Engineering student with a passion for innovation and technology.</p>
       <div className="social-icons">
-        <a href="https://github.com/Bhav57471" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/mdg157sonu" target="_blank" rel="noopener noreferrer">
           <FaGithub size={30} />
         </a>
-        <a href="https://www.linkedin.com/in/alluribhavana" target="_blank" rel="noopener noreferrer">
+        <a href="https://linkedin.com/in/mdg157sonu" target="_blank" rel="noopener noreferrer">
           <FaLinkedin size={30} />
         </a>
       </div>
@@ -21,11 +21,10 @@ const App = () => (
 
     {/* About Section */}
     <section id="about" className="section">
-      <h2>Professional Summary</h2>
+      <h2>About Me</h2>
       <p>
-        Eager, enthusiastic, and motivated Computer Science & Engineering student with a passion for
-        software development and technology. Seeking a challenging position where I can utilize my technical
-        skills and contribute to the growth and success of an organization.
+        I am an adaptable and goal-oriented Computer Science & Engineering student specializing in Full-Stack Development.
+        Seeking opportunities to leverage my technical skills and contribute to impactful projects.
       </p>
     </section>
 
@@ -33,9 +32,9 @@ const App = () => (
     <section id="education" className="section">
       <h2>Education</h2>
       <ul>
-        <li><strong>ST. Peter’s Engineering College</strong> - B.Tech in Computer Science (2021-2025) - CGPA: 8.2</li>
-        <li><strong>Sri Chaitanya Junior Kalashala</strong> - Intermediate (2019-2021) - Marks: 828/1000</li>
-        <li><strong>S.B.R.S.S Jain High School</strong> - SSC (2019) - CGPA: 8.8</li>
+        <li><strong>St. Peter’s Engineering College</strong> - B.Tech in Computer Science (2021-2025) - CGPA: 6.35</li>
+        <li><strong>St. Mary's Junior College</strong> - Senior Secondary (2019-2021) - Percentage: 50%</li>
+        <li><strong>Vignana Vardini High School</strong> - SSC (2019) - CGPA: 6.5</li>
       </ul>
     </section>
 
@@ -44,31 +43,21 @@ const App = () => (
       <h2>Projects</h2>
       <ul>
         <li>
-          <strong>Portfolio Website</strong>
+          <strong>CareerCraft</strong>
           <p>
-            Designed and developed a personal portfolio website using HTML, CSS, and React.js which showcases
-            all my projects and skills. <a href="https://github.com/Bhav57471/My-portfolio" target="_blank" rel="noopener noreferrer">Link to Demo</a>
+            A full-stack web application to streamline resume creation and optimization, ensuring tailored resumes align with job descriptions.
           </p>
         </li>
         <li>
           <strong>Cuisine Creator</strong>
           <p>
-            A web platform for users to create, share, and discover recipes. Tools Used: HTML, CSS, React.js.
-            <a href="https://github.com/Bhav57471/FN" target="_blank" rel="noopener noreferrer">Link to Demo</a>
+            A web platform for creating, sharing, and discovering recipes. Tools Used: React.js, Spring Boot, MySQL.
           </p>
         </li>
         <li>
-          <strong>Dharma Sweets Shop</strong>
+          <strong>Recipe Maker</strong>
           <p>
-            Developed a website for Dharma Sweet Shop using HTML and CSS.
-            <a href="https://github.com/Bhav57471/DharmaSweeetshop" target="_blank" rel="noopener noreferrer">Link to Demo</a>
-          </p>
-        </li>
-        <li>
-          <strong>Guesthouse Website</strong>
-          <p>
-            Built a modern, responsive web application with HTML, CSS, and React.js.
-            <a href="https://github.com/Bhav57471/Guesthouse" target="_blank" rel="noopener noreferrer">Link to Demo</a>
+            An innovative recipe-sharing platform supporting audio recipes and multilingual features.
           </p>
         </li>
       </ul>
@@ -78,10 +67,10 @@ const App = () => (
     <section id="skills" className="section">
       <h2>Technical Skills</h2>
       <ul>
-        <li>Programming Languages: CORE Java, HTML, CSS</li>
-        <li>Frameworks: React.js</li>
+        <li>Programming: Python, Java</li>
+        <li>Web Technologies: HTML, CSS, JavaScript, React.js</li>
+        <li>Frameworks & Tools: Spring Boot, Git, Visual Studio Code</li>
         <li>Databases: MySQL</li>
-        <li>Dev Tools: Excel, Eclipse, Visual Studio Code, Git</li>
       </ul>
     </section>
 
@@ -89,8 +78,8 @@ const App = () => (
     <section id="certifications" className="section">
       <h2>Certifications</h2>
       <ul>
-        <li>Certification from Dataflair in JAVA</li>
-        <li>Google Cloud Foundation Certification</li>
+        <li>Cloud Computing Fundamentals - Google</li>
+        <li>Java Certification - DataFlair</li>
         <li>Google Data Analytics Certification</li>
       </ul>
     </section>
@@ -99,11 +88,9 @@ const App = () => (
     <section id="achievements" className="section">
       <h2>Achievements</h2>
       <ul>
-        <li>Board Member in Shutterbugs Club</li>
-        <li>Student Coordinator in NSS Club</li>
-        <li>Participated in Cheriyal Painting organized by SPIC MACAY Heritage Club</li>
-        <li>Participated in HACKTOPIA by GNI</li>
-        <li>Hackathon participant in SPEC Fiesta 2024</li>
+        <li>Lead Sports Member - St. Peter’s Engineering College</li>
+        <li>1st Prize in Basketball Match - SPEC</li>
+        <li>Presented Papers at SPEC</li>
       </ul>
     </section>
 
@@ -111,12 +98,11 @@ const App = () => (
     <section id="strengths" className="section">
       <h2>Strengths</h2>
       <ul>
-        <li>Fast Learning</li>
-        <li>Team Leading Skills</li>
-        <li>Adapting to any environment</li>
-        <li>Ability to meet deadlines</li>
-        <li>Willingness to work in rotational shifts</li>
-        <li>Working well under pressure</li>
+        <li>Strong communication and interpersonal skills</li>
+        <li>Team leadership and collaboration</li>
+        <li>Adaptability to new environments</li>
+        <li>Efficient under pressure and meeting deadlines</li>
+        <li>Eagerness to learn and grow professionally</li>
       </ul>
     </section>
   </div>
